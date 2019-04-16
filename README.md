@@ -9,8 +9,7 @@ Original Design credits: (https://dribbble.com/shots/4160930-Splash-Login-Screen
 
 Hit me on twitter [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/JadavRadhe?s=09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chiragjadav-blue.svg)](https://www.linkedin.com/in/jadav-chirag-8945a2156)
-[![GitHub followers](https://img.shields.io/github/followers/JadavChirag.svg?style=for-the-badge)](https://github.com/JadavChirag?tab=followers)
-
+[![GitHub followers](https://img.shields.io/github/followers/JadavChirag.svg?style=plastic)](https://github.com/JadavChirag?tab=followers)
 
 ## Getting Started
 
