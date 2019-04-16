@@ -18,5 +18,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/35039342/52170392-54426000-276f-11e9-9705-4bc8a064d74a.png" width="270">
+<img src="" width="270">
 #Flutter-Login-Matrial-UI
