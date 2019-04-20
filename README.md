@@ -1,8 +1,8 @@
-# login_screens
+# Flutter Login Matrial UI
 
 Login Screen design made using Flutter SDK.
 
-Original Design credits: (https://dribbble.com/shots/4160930-Splash-Login-Screen)
+
 
  
 ## Questions?🤔
